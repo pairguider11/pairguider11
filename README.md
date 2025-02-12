@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👩‍⚕️ Hello, I'm Gehad!
 
-<!--
-**pairguider11/pairguider11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a pharmacy student who is curious about the world of programming.  
+💻 Currently, I'm exploring coding as a hobby and learning the basics step by step.  
 
-Here are some ideas to get you started:
+### 📚 What I'm Learning:
+- Python Basics 🐍  
+- Web Development (HTML & CSS) 🌐  
+- Problem-Solving with simple algorithms 🔢  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Why Programming?
+I believe coding is a powerful tool that can be applied in many fields, including healthcare. I'm excited to learn more and improve my skills over time!  
+
+### 🔍 My Goals:
+✅ Build simple projects to practice coding  
+✅ Learn how to use Git & GitHub efficiently  
+✅ Connect with other learners and developers  
+
+---
+
+🌱 **I'm just getting started, so any tips or resources are always welcome!** 😊  
+📫 Feel free to connect with me on GitHub!  
